@@ -1,16 +1,15 @@
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
 ## Table of Contents
+
 - [Task](#task)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Mock-up](#mock-up)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Testing](#testing)
 - [Contributing](#contributing)
 - [Questions](#questions)
-
 
 ## Task
 
@@ -18,7 +17,7 @@ Internet retail, also known as **e-commerce**, is the largest sector of the elec
 
 Task is to build the back end for an e-commerce site by modifying starter code. A working Express.js API to use Sequelize to interact with a MySQL database will be configured.
 
-Because this application won’t be deployed, a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met is provided. 
+Because this application won’t be deployed, a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met is provided.
 
 ## User Story
 
@@ -60,42 +59,30 @@ The following animation shows the application's POST, PUT, and DELETE routes for
 
 Your walkthrough video should also show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia.
 
-
 ## Installation
-💾   
-  
-`npm init`
 
-`npm install mysql2`
+`npm i`
 
-`npm install sequelize`
-
-`npm install dotenv`
-  
 ## Usage
-💻   
-  
+
 Run the following command at the root of your project and answer the prompted questions:
 
 `mysql -u root -p`
 
-Enter PW when promted
+Enter password when promted
 
 `source db/schema.sql`
 
 `quit`
 
 `npm run seed`
-  
+
 `npm start`
 
-## Testing
-✏️
-
-No testing is currently set up
-
 ## Contributing
- [Ned Zatezalo](https://github.com/NebsterOne)
+
+[Ned Zatezalo](https://github.com/NebsterOne)
 
 ## Questions
+
 ✉️ Contact me with any questions: [email](mailto:nelectrik@gmail.com) , [GitHub](https://github.com/NebsterOne)<br />
