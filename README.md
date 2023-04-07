@@ -8,6 +8,8 @@
 - [Mock-up](#mock-up)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Test](#test)
+- [Walkthrough Video](#Walkthrough-video)
 - [Contributing](#contributing)
 - [Questions](#questions)
 
@@ -78,6 +80,10 @@ Enter password when promted
 `npm run seed`
 
 `npm start`
+
+## Test
+
+## Walkthrough Video
 
 ## Contributing
 
