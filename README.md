@@ -8,7 +8,6 @@
 - [Mock-up](#mock-up)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Test](#test)
 - [Walkthrough Video](#Walkthrough-video)
 - [Contributing](#contributing)
 - [Questions](#questions)
@@ -81,9 +80,9 @@ Enter password when promted
 
 `npm start`
 
-## Test
-
 ## Walkthrough Video
+
+[Video](./Assets/video.webm)
 
 ## Contributing
 
